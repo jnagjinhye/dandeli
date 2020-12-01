@@ -1,0 +1,43 @@
+
+.p1{
+	font-family: 'Raleway', sans-serif; 
+	font-weight: 800; 
+	font-size: 12vw; 
+	letter-spacing: -0.1rem;
+	position: absolute; 
+	right: 100px; 
+	top: 50px
+}
+
+
+.p2{
+	font-family:'Rubik', sans-serif;
+	font-weight: 500; 
+	font-size: 1.4rem;
+	line-height: 1.8rem;
+	width: 500px; 
+	position: absolute; 
+	right: 100px;
+	top: 790px
+}
+
+.p3{
+	font-family: 'Raleway', sans-serif; 
+	font-weight: 800; 
+	font-size: 1.9rem;
+	position: absolute; 
+	right: 490px;
+	top: 750px
+
+}
+
+.bluecircle{
+	border-radius: 50%; 
+	background-color: #8fb4ff; 
+	width: 95vw; 
+	height: 95vw; 
+	position: absolute; 
+	left: calc(50% - 16.5vw);
+	top: calc(50% - 19vw);
+}
+
